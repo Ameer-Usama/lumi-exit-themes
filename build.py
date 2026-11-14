@@ -18,7 +18,7 @@ from PIL import Image
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BG_SIZE = (768, 1376)
-THUMB_SIZE = (264, 316)
+THUMB_SIZE = (360, 570)
 
 
 def cover(image, size):
