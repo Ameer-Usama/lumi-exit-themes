@@ -1,0 +1,4 @@
+raw/
+.gdignore
+.DS_Store
+__pycache__/

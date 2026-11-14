@@ -1,0 +1,269 @@
+{
+ "version": 1,
+ "themes": [
+  {
+   "id": "sakura",
+   "name": "Sakura Night",
+   "price": 150,
+   "hue": 320.0,
+   "bg": "bg/sakura.jpg",
+   "thumb": "thumb/sakura.jpg"
+  },
+  {
+   "id": "stars",
+   "name": "Starfield",
+   "price": 150,
+   "hue": 220.0,
+   "bg": "bg/stars.jpg",
+   "thumb": "thumb/stars.jpg"
+  },
+  {
+   "id": "arctic",
+   "name": "Arctic Ice",
+   "price": 200,
+   "hue": 180.0,
+   "bg": "bg/arctic.jpg",
+   "thumb": "thumb/arctic.jpg"
+  },
+  {
+   "id": "nebula",
+   "name": "Cosmic Nebula",
+   "price": 200,
+   "hue": 260.0,
+   "bg": "bg/nebula.jpg",
+   "thumb": "thumb/nebula.jpg"
+  },
+  {
+   "id": "ocean",
+   "name": "Deep Ocean",
+   "price": 200,
+   "hue": 190.0,
+   "bg": "bg/ocean.jpg",
+   "thumb": "thumb/ocean.jpg"
+  },
+  {
+   "id": "dunes",
+   "name": "Desert Dusk",
+   "price": 200,
+   "hue": 35.0,
+   "bg": "bg/dunes.jpg",
+   "thumb": "thumb/dunes.jpg"
+  },
+  {
+   "id": "autumn",
+   "name": "Autumn Leaves",
+   "price": 250,
+   "hue": 25.0,
+   "bg": "bg/autumn.jpg",
+   "thumb": "thumb/autumn.jpg"
+  },
+  {
+   "id": "lava",
+   "name": "Lava Flow",
+   "price": 250,
+   "hue": 15.0,
+   "bg": "bg/lava.jpg",
+   "thumb": "thumb/lava.jpg"
+  },
+  {
+   "id": "jungle",
+   "name": "Midnight Jungle",
+   "price": 250,
+   "hue": 120.0,
+   "bg": "bg/jungle.jpg",
+   "thumb": "thumb/jungle.jpg"
+  },
+  {
+   "id": "mint",
+   "name": "Mint Dream",
+   "price": 250,
+   "hue": 160.0,
+   "bg": "bg/mint.jpg",
+   "thumb": "thumb/mint.jpg"
+  },
+  {
+   "id": "candy",
+   "name": "Candy Clouds",
+   "price": 300,
+   "hue": 340.0,
+   "bg": "bg/candy.jpg",
+   "thumb": "thumb/candy.jpg"
+  },
+  {
+   "id": "reef",
+   "name": "Coral Reef",
+   "price": 300,
+   "hue": 170.0,
+   "bg": "bg/reef.jpg",
+   "thumb": "thumb/reef.jpg"
+  },
+  {
+   "id": "moonlake",
+   "name": "Moonlit Lake",
+   "price": 300,
+   "hue": 210.0,
+   "bg": "bg/moonlake.jpg",
+   "thumb": "thumb/moonlake.jpg"
+  },
+  {
+   "id": "snowfall",
+   "name": "Snowfall",
+   "price": 300,
+   "hue": 205.0,
+   "bg": "bg/snowfall.jpg",
+   "thumb": "thumb/snowfall.jpg"
+  },
+  {
+   "id": "tropic",
+   "name": "Tropical Sunset",
+   "price": 300,
+   "hue": 10.0,
+   "bg": "bg/tropic.jpg",
+   "thumb": "thumb/tropic.jpg"
+  },
+  {
+   "id": "bamboo",
+   "name": "Bamboo Grove",
+   "price": 350,
+   "hue": 110.0,
+   "bg": "bg/bamboo.jpg",
+   "thumb": "thumb/bamboo.jpg"
+  },
+  {
+   "id": "meadow",
+   "name": "Firefly Meadow",
+   "price": 350,
+   "hue": 75.0,
+   "bg": "bg/meadow.jpg",
+   "thumb": "thumb/meadow.jpg"
+  },
+  {
+   "id": "neon",
+   "name": "Neon City",
+   "price": 350,
+   "hue": 290.0,
+   "bg": "bg/neon.jpg",
+   "thumb": "thumb/neon.jpg"
+  },
+  {
+   "id": "storm",
+   "name": "Thunderstorm",
+   "price": 350,
+   "hue": 240.0,
+   "bg": "bg/storm.jpg",
+   "thumb": "thumb/storm.jpg"
+  },
+  {
+   "id": "amethyst",
+   "name": "Crystal Cave",
+   "price": 400,
+   "hue": 275.0,
+   "bg": "bg/amethyst.jpg",
+   "thumb": "thumb/amethyst.jpg"
+  },
+  {
+   "id": "ember",
+   "name": "Ember",
+   "price": 400,
+   "hue": 22.0,
+   "bg": "bg/ember.jpg",
+   "thumb": "thumb/ember.jpg"
+  },
+  {
+   "id": "golden",
+   "name": "Golden Hour",
+   "price": 400,
+   "hue": 45.0,
+   "bg": "bg/golden.jpg",
+   "thumb": "thumb/golden.jpg"
+  },
+  {
+   "id": "lanterns",
+   "name": "Lantern Festival",
+   "price": 400,
+   "hue": 40.0,
+   "bg": "bg/lanterns.jpg",
+   "thumb": "thumb/lanterns.jpg"
+  },
+  {
+   "id": "honey",
+   "name": "Honeycomb",
+   "price": 450,
+   "hue": 50.0,
+   "bg": "bg/honey.jpg",
+   "thumb": "thumb/honey.jpg"
+  },
+  {
+   "id": "abyss",
+   "name": "Bioluminescent Abyss",
+   "price": 500,
+   "hue": 200.0,
+   "bg": "bg/abyss.jpg",
+   "thumb": "thumb/abyss.jpg"
+  },
+  {
+   "id": "borealis",
+   "name": "Northern Lights",
+   "price": 500,
+   "hue": 140.0,
+   "bg": "bg/borealis.jpg",
+   "thumb": "thumb/borealis.jpg"
+  },
+  {
+   "id": "spooky",
+   "name": "Spooky Night",
+   "price": 500,
+   "hue": 30.0,
+   "bg": "bg/spooky.jpg",
+   "thumb": "thumb/spooky.jpg"
+  },
+  {
+   "id": "forest",
+   "name": "Forest",
+   "price": 600,
+   "hue": 95.0,
+   "bg": "bg/forest.jpg",
+   "thumb": "thumb/forest.jpg"
+  },
+  {
+   "id": "velvet",
+   "name": "Royal Velvet",
+   "price": 600,
+   "hue": 285.0,
+   "bg": "bg/velvet.jpg",
+   "thumb": "thumb/velvet.jpg"
+  },
+  {
+   "id": "synthwave",
+   "name": "Synthwave",
+   "price": 600,
+   "hue": 300.0,
+   "bg": "bg/synthwave.jpg",
+   "thumb": "thumb/synthwave.jpg"
+  },
+  {
+   "id": "ruby",
+   "name": "Ruby Glow",
+   "price": 700,
+   "hue": 350.0,
+   "bg": "bg/ruby.jpg",
+   "thumb": "thumb/ruby.jpg"
+  },
+  {
+   "id": "horizon",
+   "name": "Event Horizon",
+   "price": 800,
+   "hue": 230.0,
+   "bg": "bg/horizon.jpg",
+   "thumb": "thumb/horizon.jpg"
+  },
+  {
+   "id": "prism",
+   "name": "Prism Light",
+   "price": 1000,
+   "hue": 180.0,
+   "bg": "bg/prism.jpg",
+   "thumb": "thumb/prism.jpg"
+  }
+ ]
+}
